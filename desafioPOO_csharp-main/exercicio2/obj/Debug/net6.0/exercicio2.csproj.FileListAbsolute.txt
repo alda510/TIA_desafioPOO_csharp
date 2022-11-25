@@ -1,0 +1,15 @@
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\bin\Debug\net6.0\exercicio2.exe
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\bin\Debug\net6.0\exercicio2.deps.json
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\bin\Debug\net6.0\exercicio2.runtimeconfig.json
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\bin\Debug\net6.0\exercicio2.dll
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\bin\Debug\net6.0\exercicio2.pdb
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.csproj.AssemblyReference.cache
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfo.cs
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.dll
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\refint\exercicio2.dll
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.pdb
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\exercicio2.genruntimeconfig.cache
+C:\Users\giovanni.guilioti\Desktop\Cursos\3 - C#\desafiopoo\exercicio2\obj\Debug\net6.0\ref\exercicio2.dll
